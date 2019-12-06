@@ -12,6 +12,9 @@
         app:mcv_selectionColor="#008577"
         app:mcv_showOtherDates="all"
         app:mcv_firstDayOfWeek="sunday"
+        app:mcv_showWeekDays="true"
+        app:mcv_allowClickDaysOutsideCurrentMonth="true"
+        app:mcv_arrowColor="@color/colorPrimary"
         />
 
 </LinearLayout>
