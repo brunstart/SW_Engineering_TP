@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">02</string>
-    <string name="title_home">장기 계획</string>
-    <string name="title_dashboard">일정</string>
-    <string name="title_notifications">추가</string>
+    <string name="title_home">일정</string>
+    <string name="title_dashboard">달력</string>
+    <string name="title_notifications">장기계획</string>
 </resources>
